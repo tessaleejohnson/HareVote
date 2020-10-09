@@ -1,8 +1,8 @@
 ---
-title: "Hare_Voting"
+title: "Nominee_Selection"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{Hare_Voting}
+  %\VignetteIndexEntry{Nominee_Selection}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 library(HareVote)
 ```
 
-## Example Ballot Data
+## Example Nomination Data
 
 ```{r}
 
@@ -26,22 +26,20 @@ library(HareVote)
 path_dat <- system.file("extdata", package = "HareVote")
 file_nm <- 
   list.files(path = path_dat, pattern = ".csv") %>%
-  .[grepl("TEST-DATA", .)]
+  .[grepl("TEST-NOMINATIONS", .)]
   
 
 # import the data
-ballots <- import_data(path = file.path(path_dat, file_nm))
+nominations <- import_nominations(path = file.path(path_dat, file_nm))
 
-print(ballots)
+print(nominations)
 
 ```
 
-## Identify the Winner!
+## Identify the Top Nominees!
 
 ```{r}
 
-identify_winner(ballots)
+count_nominees(nominations, .limit = 5)
 
 ```
-
-

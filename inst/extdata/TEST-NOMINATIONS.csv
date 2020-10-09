@@ -1,0 +1,19 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Nominate_1
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Text
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID2_1""}"
+10/9/2020 8:12,10/9/2020 8:13,IP Address,73.12.12.42,100,21,TRUE,10/9/2020 8:13,R_2pQQThye4CcNl4g,,,,,37.43859863,-79.20800018,anonymous,EN,kermit the frog
+10/9/2020 8:13,10/9/2020 8:13,IP Address,73.12.12.42,100,10,TRUE,10/9/2020 8:13,R_1eUV87iSMlzdGGq,,,,,37.43859863,-79.20800018,anonymous,EN,miss piggy
+10/9/2020 8:13,10/9/2020 8:14,IP Address,73.12.12.42,100,16,TRUE,10/9/2020 8:14,R_2xy4Sfxoz35EPej,,,,,37.43859863,-79.20800018,anonymous,EN,fozzie bear
+10/9/2020 8:14,10/9/2020 8:14,IP Address,73.12.12.42,100,12,TRUE,10/9/2020 8:14,R_2zTH9O3Sy0AhBwe,,,,,37.43859863,-79.20800018,anonymous,EN,statler
+10/9/2020 8:14,10/9/2020 8:14,Spam,73.12.12.42,100,14,TRUE,10/9/2020 8:14,R_50BgeamPY5QvsZj,,,,,37.43859863,-79.20800018,anonymous,EN,waldorf
+10/9/2020 8:14,10/9/2020 8:14,Spam,73.12.12.42,100,5,TRUE,10/9/2020 8:14,R_2SuTBxTrZ1TUiJA,,,,,37.43859863,-79.20800018,anonymous,EN,miss piggy
+10/9/2020 8:14,10/9/2020 8:14,Spam,73.12.12.42,100,7,TRUE,10/9/2020 8:14,R_1onDhtkaVtsADvz,,,,,37.43859863,-79.20800018,anonymous,EN,kermit the frog
+10/9/2020 8:14,10/9/2020 8:15,Spam,73.12.12.42,100,7,TRUE,10/9/2020 8:15,R_3OqxIyemW5xnMUX,,,,,37.43859863,-79.20800018,anonymous,EN,kermit the frog
+10/9/2020 8:15,10/9/2020 8:15,Spam,73.12.12.42,100,5,TRUE,10/9/2020 8:15,R_1CayMDF1ZAKUSyK,,,,,37.43859863,-79.20800018,anonymous,EN,statler
+10/9/2020 8:15,10/9/2020 8:15,Spam,73.12.12.42,100,6,TRUE,10/9/2020 8:15,R_1j6uqHsNFo4w9VI,,,,,37.43859863,-79.20800018,anonymous,EN,waldorf
+10/9/2020 8:15,10/9/2020 8:15,Spam,73.12.12.42,100,7,TRUE,10/9/2020 8:15,R_12lRxvNoJtatVQg,,,,,37.43859863,-79.20800018,anonymous,EN,fozzie bear
+10/9/2020 8:15,10/9/2020 8:15,Spam,73.12.12.42,100,7,TRUE,10/9/2020 8:15,R_12lRxvNoJtatVQg,,,,,37.43859863,-79.20800018,anonymous,EN,fozzie bear
+10/9/2020 8:15,10/9/2020 8:15,Spam,73.12.12.42,100,7,TRUE,10/9/2020 8:15,R_12lRxvNoJtatVQg,,,,,37.43859863,-79.20800018,anonymous,EN,fozzie bear
+10/9/2020 8:15,10/9/2020 8:15,Spam,73.12.12.42,100,7,TRUE,10/9/2020 8:15,R_12lRxvNoJtatVQg,,,,,37.43859863,-79.20800018,anonymous,EN,fozzie bear
+10/9/2020 8:15,10/9/2020 8:15,Spam,73.12.12.42,100,7,TRUE,10/9/2020 8:15,R_12lRxvNoJtatVQg,,,,,37.43859863,-79.20800018,anonymous,EN,fozzie bear
+10/9/2020 8:15,10/9/2020 8:15,Spam,73.12.12.42,100,7,TRUE,10/9/2020 8:15,R_12lRxvNoJtatVQg,,,,,37.43859863,-79.20800018,anonymous,EN,animal
