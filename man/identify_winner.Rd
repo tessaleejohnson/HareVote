@@ -15,7 +15,7 @@ identify_winner(.data, .name = "name", .pct = "pct")
 proportions.}
 }
 \value{
-A string - the announcement printed by
+A list of string elements - the announcement(s) printed by
 \code{\link{print_max_result}}.
 }
 \description{

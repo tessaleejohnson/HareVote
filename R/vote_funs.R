@@ -62,7 +62,7 @@ tabulate_results <-
 
     purrr::imap_dfr(.data, ~{
       # calculate percentage of first-choice votes for each nominee
-      pct <- sum(.x == 1) / length(.x)
+      pct <- sum(.x == 1, na.rm = TRUE) / length(.x)
       # output results
       list(name = .y, pct = pct)
     })
@@ -229,7 +229,7 @@ redistribute_votes <-
 #' @inheritParams tabulate_results
 #' @inheritParams check_proportion
 #'
-#' @return A string - the announcement printed by
+#' @return A list of string elements - the announcement(s) printed by
 #' \code{\link{print_max_result}}.
 #'
 #' @export
@@ -254,8 +254,10 @@ identify_winner <-
 
       # print the winner
       winner <-
-        paste0(
-          "Iteration = 1", "; ", find_max_result(results, maj)[, 1], " wins!"
+        list(
+          paste0(
+            "Iteration = 1", "; ", find_max_result(results, maj)[, 1], " wins!"
+          )
         )
 
     } else {
@@ -274,13 +276,12 @@ identify_winner <-
 
         winner[[i]] <- paste0("Iteration = ", i, "; ", remove, " removed.")
 
-        # step 4 - update ballots
+        # step 4 - update ballots in place
         .data <-
           .data %>%
           redistribute_votes(., remove)
 
         # step 2 - tabulate new results
-
         results <- .data %>% tabulate_results(.)
 
         # step 2a - find the maximum vote percentage
