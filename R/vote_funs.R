@@ -62,7 +62,7 @@ tabulate_results <-
 
     purrr::imap_dfr(.data, ~{
       # calculate percentage of first-choice votes for each nominee
-      pct <- sum(.x == 1, na.rm = TRUE) / length(.x)
+      pct <- sum(.x == 1, na.rm = TRUE) / sum(!is.na(.x))
       # output results
       list(name = .y, pct = pct)
     })
