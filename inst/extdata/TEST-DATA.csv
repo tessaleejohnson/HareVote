@@ -1,0 +1,29 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q1_1,Q1_2,Q1_3,Q1_4,Q1_5
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Rank the nominees to vote for SMEP President as follows:
+1 = first choice...5 = last choice
+Start by clicking or tapping on a name, and a number indicating its rank will appear to the left. Rearrange the names by dragging them in your preferred rank order. - kermit the frog","Rank the nominees to vote for SMEP President as follows:
+1 = first choice...5 = last choice
+Start by clicking or tapping on a name, and a number indicating its rank will appear to the left. Rearrange the names by dragging them in your preferred rank order. - miss piggy","Rank the nominees to vote for SMEP President as follows:
+1 = first choice...5 = last choice
+Start by clicking or tapping on a name, and a number indicating its rank will appear to the left. Rearrange the names by dragging them in your preferred rank order. - statler","Rank the nominees to vote for SMEP President as follows:
+1 = first choice...5 = last choice
+Start by clicking or tapping on a name, and a number indicating its rank will appear to the left. Rearrange the names by dragging them in your preferred rank order. - waldorf","Rank the nominees to vote for SMEP President as follows:
+1 = first choice...5 = last choice
+Start by clicking or tapping on a name, and a number indicating its rank will appear to the left. Rearrange the names by dragging them in your preferred rank order. - fozzie bear"
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1_1""}","{""ImportId"":""QID1_2""}","{""ImportId"":""QID1_3""}","{""ImportId"":""QID1_4""}","{""ImportId"":""QID1_5""}"
+10/8/2020 7:33,10/8/2020 7:34,IP Address,73.12.12.42,100,29,TRUE,10/8/2020 7:34,R_cGV6uUcj8Be72oh,,,,,37.43859863,-79.20800018,anonymous,EN,1,2,5,3,4
+10/8/2020 7:34,10/8/2020 7:35,IP Address,73.12.12.42,100,49,TRUE,10/8/2020 7:35,R_22t2HYIk4coECEu,,,,,37.43859863,-79.20800018,anonymous,EN,1,5,4,3,2
+10/8/2020 7:35,10/8/2020 7:35,IP Address,73.12.12.42,100,7,TRUE,10/8/2020 7:35,R_u9xLX4k11oDonUl,,,,,37.43859863,-79.20800018,anonymous,EN,3,1,5,2,4
+10/8/2020 7:35,10/8/2020 7:35,IP Address,73.12.12.42,100,12,TRUE,10/8/2020 7:35,R_2tEDA4G7W8n9wyW,,,,,37.43859863,-79.20800018,anonymous,EN,2,1,4,3,5
+10/8/2020 7:35,10/8/2020 7:35,IP Address,73.12.12.42,100,8,TRUE,10/8/2020 7:35,R_2qCU6qk7HFZVTA7,,,,,37.43859863,-79.20800018,anonymous,EN,1,2,5,3,4
+10/8/2020 7:35,10/8/2020 7:35,IP Address,73.12.12.42,100,9,TRUE,10/8/2020 7:35,R_3Mtidtx9xaV46mt,,,,,37.43859863,-79.20800018,anonymous,EN,4,2,3,5,1
+10/8/2020 7:35,10/8/2020 7:36,IP Address,73.12.12.42,100,4,TRUE,10/8/2020 7:36,R_0qPhKGb6R0Arf2h,,,,,37.43859863,-79.20800018,anonymous,EN,2,4,3,5,1
+10/8/2020 7:36,10/8/2020 7:36,IP Address,73.12.12.42,100,4,TRUE,10/8/2020 7:36,R_2co6Y6T5lPAFb7i,,,,,37.43859863,-79.20800018,anonymous,EN,1,3,4,5,2
+10/8/2020 7:36,10/8/2020 7:36,IP Address,73.12.12.42,100,2,TRUE,10/8/2020 7:36,R_1rxC0hYFieBcwX3,,,,,37.43859863,-79.20800018,anonymous,EN,3,4,2,1,5
+10/8/2020 7:36,10/8/2020 7:36,IP Address,73.12.12.42,100,6,TRUE,10/8/2020 7:36,R_2TB37ImK2XKxoHi,,,,,37.43859863,-79.20800018,anonymous,EN,4,3,2,1,5
+10/8/2020 7:36,10/8/2020 7:36,IP Address,73.12.12.42,100,4,TRUE,10/8/2020 7:36,R_2V8spytyFHpYVfx,,,,,37.43859863,-79.20800018,anonymous,EN,5,4,2,3,1
+10/8/2020 7:36,10/8/2020 7:36,IP Address,73.12.12.42,100,4,TRUE,10/8/2020 7:36,R_22L0xz3g0AgF848,,,,,37.43859863,-79.20800018,anonymous,EN,3,2,5,4,1
+10/8/2020 7:36,10/8/2020 7:36,IP Address,73.12.12.42,100,5,TRUE,10/8/2020 7:36,R_3HteWNE22AYm0KI,,,,,37.43859863,-79.20800018,anonymous,EN,2,5,3,4,1
+10/8/2020 7:36,10/8/2020 7:36,IP Address,73.12.12.42,100,4,TRUE,10/8/2020 7:36,R_2chEVes0PDbCU2N,,,,,37.43859863,-79.20800018,anonymous,EN,4,3,5,2,1
+10/8/2020 7:36,10/8/2020 7:36,IP Address,73.12.12.42,100,5,TRUE,10/8/2020 7:37,R_3dL2cA2GNKWA6SQ,,,,,37.43859863,-79.20800018,anonymous,EN,4,1,5,3,2
+10/8/2020 7:37,10/8/2020 7:37,IP Address,73.12.12.42,100,3,TRUE,10/8/2020 7:37,R_x3led64xtDljJpn,,,,,37.43859863,-79.20800018,anonymous,EN,5,1,4,3,2

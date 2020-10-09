@@ -1,0 +1,44 @@
+---
+title: "Hare_Voting"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Hare_Voting}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(HareVote)
+```
+
+## Example Ballot Data
+
+```{r}
+
+# identify path to qualtrics CSV data export
+path_dat <- system.file("extdata", package = "HareVote")
+file_nm <- list.files(path = path_dat, pattern = ".csv")
+
+# import the data
+ballots <- import_data(path = file.path(path_dat, file_nm))
+
+print(ballots)
+
+```
+
+## Identify the Winner!
+
+```{r}
+
+identify_winner(ballots)
+
+```
+
+

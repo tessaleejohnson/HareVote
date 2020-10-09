@@ -1,0 +1,25 @@
+Package: HareVote
+Type: package
+Title: Applies Hare System of Ranked Choice Voting
+Version: 0.1.0
+Author: Tessa L. Johnson
+Maintainer: Tessa L. Johnson <johnsont@umd.edu>
+Description: This package uses the Hare System of ranked choice voting
+    applied to Qualtrics data (using the rank order item).
+	https://assembly.cornell.edu/elections/hare-system-ranked-choice-voting
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Imports: 
+    magrittr,
+    dplyr,
+    purrr,
+    rlang,
+    tidyselect,
+    readr,
+    stringr
