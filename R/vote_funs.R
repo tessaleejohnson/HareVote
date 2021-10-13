@@ -290,6 +290,11 @@ identify_winner <-
         # update index i
         i <- i + 1
 
+        # add stop condition
+        # if (maj == .5 & NCOL(.data == 2)) {
+        #   stop("Tie achieved.")
+        # }
+
       }
 
       winner[[i]] <-
