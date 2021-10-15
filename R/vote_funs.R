@@ -20,12 +20,7 @@
 import_data <-
   function(
     path,
-    item_text = paste0(
-      "Rank the nominees to vote for SMEP President as follows:\n1 = ",
-      "first choice...5 = last choice\nStart by clicking or tapping on a ",
-      "name, and a number indicating its rank will appear to the left. ",
-      "Rearrange the names by dragging them in your preferred rank order. - "
-    )
+    item_text = "Rank the nominees to vote for SMEP President as follows:"
   ) {
     # STEP 1:
     # import CSV file from qualtrics

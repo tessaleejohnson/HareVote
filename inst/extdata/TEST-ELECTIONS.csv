@@ -1,0 +1,59 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q1_1,Q1_2,Q1_3,Q1_4,Q1_5,Q1_6,Q1_7,Q1_8,Q1_9
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Rank the nominees to vote for SMEP President as follows:
+1 = first choice...9 = last choice
+Start by clicking or tapping on a name, and a number indicating its rank will appear to the left. Rearrange the names by dragging them in your preferred rank order. - Michael Neale","Rank the nominees to vote for SMEP President as follows:
+1 = first choice...9 = last choice
+Start by clicking or tapping on a name, and a number indicating its rank will appear to the left. Rearrange the names by dragging them in your preferred rank order. - Nilam Ram","Rank the nominees to vote for SMEP President as follows:
+1 = first choice...9 = last choice
+Start by clicking or tapping on a name, and a number indicating its rank will appear to the left. Rearrange the names by dragging them in your preferred rank order. - Albert Maydeu-Olivares","Rank the nominees to vote for SMEP President as follows:
+1 = first choice...9 = last choice
+Start by clicking or tapping on a name, and a number indicating its rank will appear to the left. Rearrange the names by dragging them in your preferred rank order. - Charles Reichardt","Rank the nominees to vote for SMEP President as follows:
+1 = first choice...9 = last choice
+Start by clicking or tapping on a name, and a number indicating its rank will appear to the left. Rearrange the names by dragging them in your preferred rank order. - Irini Moustaki","Rank the nominees to vote for SMEP President as follows:
+1 = first choice...9 = last choice
+Start by clicking or tapping on a name, and a number indicating its rank will appear to the left. Rearrange the names by dragging them in your preferred rank order. - Kevin Grimm","Rank the nominees to vote for SMEP President as follows:
+1 = first choice...9 = last choice
+Start by clicking or tapping on a name, and a number indicating its rank will appear to the left. Rearrange the names by dragging them in your preferred rank order. - Lesa Hoffman","Rank the nominees to vote for SMEP President as follows:
+1 = first choice...9 = last choice
+Start by clicking or tapping on a name, and a number indicating its rank will appear to the left. Rearrange the names by dragging them in your preferred rank order. - Todd Little","Rank the nominees to vote for SMEP President as follows:
+1 = first choice...9 = last choice
+Start by clicking or tapping on a name, and a number indicating its rank will appear to the left. Rearrange the names by dragging them in your preferred rank order. - David Budescu"
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1_1""}","{""ImportId"":""QID1_2""}","{""ImportId"":""QID1_3""}","{""ImportId"":""QID1_4""}","{""ImportId"":""QID1_5""}","{""ImportId"":""QID1_6""}","{""ImportId"":""QID1_7""}","{""ImportId"":""QID1_8""}","{""ImportId"":""QID1_9""}"
+2021-10-15 13:03:24,2021-10-15 13:03:58,IP Address,173.18.62.240,100,34,True,2021-10-15 13:03:58,R_3njBN7HlGdgrrmB,,,,,41.662200927734375,-91.51490020751953125,anonymous,EN,5,6,8,7,3,4,1,9,2
+2021-10-15 13:03:28,2021-10-15 13:04:18,IP Address,73.36.92.177,100,49,True,2021-10-15 13:04:18,R_1mfrBl4bwRUOyi3,,,,,41.7454071044921875,-86.138702392578125,anonymous,EN,4,2,7,9,6,1,8,5,3
+2021-10-15 13:03:24,2021-10-15 13:04:21,IP Address,75.118.51.149,100,57,True,2021-10-15 13:04:22,R_3szvMY6u6bLbk6q,,,,,40.0818023681640625,-82.96649932861328125,anonymous,EN,2,9,5,4,1,6,7,8,3
+2021-10-15 13:03:29,2021-10-15 13:04:24,IP Address,206.87.112.146,100,54,True,2021-10-15 13:04:24,R_28BNGc3q0za54lC,,,,,49.4635009765625,-122.82199859619140625,anonymous,EN,3,4,7,8,1,6,2,9,5
+2021-10-15 13:03:24,2021-10-15 13:04:30,IP Address,94.211.124.79,100,65,True,2021-10-15 13:04:30,R_1dKSS1t5KA13TgM,,,,,52.0941009521484375,5.0503997802734375,anonymous,EN,8,9,4,7,5,2,1,3,6
+2021-10-15 13:03:40,2021-10-15 13:04:32,IP Address,66.56.179.110,100,51,True,2021-10-15 13:04:32,R_3rTnLZDRcfc2Khl,,,,,33.9875030517578125,-81.00250244140625,anonymous,EN,1,7,2,9,5,4,3,6,8
+2021-10-15 13:03:26,2021-10-15 13:04:47,IP Address,98.244.81.106,100,81,True,2021-10-15 13:04:47,R_sZHD7aGCfzVwWzv,,,,,38.0321044921875,-78.4889984130859375,anonymous,EN,3,2,4,7,8,6,1,9,5
+2021-10-15 13:03:24,2021-10-15 13:04:50,IP Address,165.124.164.66,100,85,True,2021-10-15 13:04:50,R_3NKYhVrjYVR10tG,,,,,41.8972015380859375,-87.619598388671875,anonymous,EN,2,6,7,1,8,5,4,9,3
+2021-10-15 13:03:34,2021-10-15 13:04:52,IP Address,131.96.247.78,100,78,True,2021-10-15 13:04:53,R_2b3EstlvnfUUEa7,,,,,33.746795654296875,-84.31369781494140625,anonymous,EN,6,3,9,7,2,4,1,5,8
+2021-10-15 13:03:31,2021-10-15 13:05:00,IP Address,129.74.37.47,100,89,True,2021-10-15 13:05:00,R_sdmFHSkyafgYWIx,,,,,41.685302734375,-86.23290252685546875,anonymous,EN,7,1,9,8,4,6,5,2,3
+2021-10-15 13:03:25,2021-10-15 13:05:13,IP Address,76.123.196.161,100,108,True,2021-10-15 13:05:14,R_2UXzrZmYIDF7Qrn,,,,,36.0659942626953125,-86.9658966064453125,anonymous,EN,1,8,7,4,9,5,3,6,2
+2021-10-15 13:03:39,2021-10-15 13:05:16,IP Address,71.121.241.19,100,97,True,2021-10-15 13:05:17,R_QhnQU76Mo2XCdZT,,,,,39.2725982666015625,-76.86139678955078125,anonymous,EN,7,5,8,3,2,1,6,9,4
+2021-10-15 13:03:37,2021-10-15 13:05:17,IP Address,209.122.244.33,100,100,True,2021-10-15 13:05:18,R_2uQIVk84dAaLPir,,,,,40.7427978515625,-73.97119903564453125,anonymous,EN,3,8,4,7,2,6,5,9,1
+2021-10-15 13:03:25,2021-10-15 13:05:31,IP Address,169.237.90.174,100,125,True,2021-10-15 13:05:31,R_XoVlBKRbpq7g5ZD,,,,,38.5558929443359375,-121.739105224609375,anonymous,EN,3,6,9,5,2,7,1,4,8
+2021-10-15 13:03:34,2021-10-15 13:05:40,IP Address,98.42.141.162,100,126,True,2021-10-15 13:05:40,R_12LqIYGAuvDraZ5,,,,,37.4651031494140625,-122.14300537109375,anonymous,EN,4,6,9,7,2,5,1,3,8
+2021-10-15 13:03:31,2021-10-15 13:05:57,IP Address,172.58.46.223,100,145,True,2021-10-15 13:05:57,R_x5iB8APjTrk7xsZ,,,,,47.6033935546875,-122.341400146484375,anonymous,EN,4,9,7,1,8,2,3,6,5
+2021-10-15 13:03:47,2021-10-15 13:06:02,IP Address,149.169.51.222,100,135,True,2021-10-15 13:06:02,R_1Nqpm88cuU9SbFb,,,,,33.432098388671875,-111.933502197265625,anonymous,EN,1,9,3,4,5,8,7,6,2
+2021-10-15 13:03:35,2021-10-15 13:06:04,IP Address,73.164.121.227,100,149,True,2021-10-15 13:06:04,R_22KQdsl5L90amfL,,,,,45.0702056884765625,-93.455596923828125,anonymous,EN,7,9,3,5,6,8,4,2,1
+2021-10-15 13:03:32,2021-10-15 13:06:09,IP Address,104.39.211.139,100,156,True,2021-10-15 13:06:09,R_Y9wAX6ROxshY4il,,,,,40.810302734375,-77.88800048828125,anonymous,EN,8,3,4,9,1,2,6,5,7
+2021-10-15 13:05:16,2021-10-15 13:06:11,IP Address,73.242.20.111,100,55,True,2021-10-15 13:06:12,R_1dFxZkFC3Zw3OKu,,,,,45.0139007568359375,-93.15450286865234375,anonymous,EN,1,9,3,4,5,6,8,7,2
+2021-10-15 13:05:15,2021-10-15 13:06:17,IP Address,71.132.169.250,100,61,True,2021-10-15 13:06:17,R_Rs336egDM5uYp4R,,,,,29.7227935791015625,-95.42510223388671875,anonymous,EN,1,9,3,8,6,4,5,2,7
+2021-10-15 13:03:31,2021-10-15 13:06:27,IP Address,68.96.57.134,100,176,True,2021-10-15 13:06:28,R_bgEicPoHRoirwg9,,,,,33.3321990966796875,-111.99420166015625,anonymous,EN,6,2,5,7,3,4,1,9,8
+2021-10-15 13:05:20,2021-10-15 13:06:44,IP Address,73.36.92.177,100,83,True,2021-10-15 13:06:44,R_UEyWV8nhCsnwJwd,,,,,41.7454071044921875,-86.138702392578125,anonymous,EN,1,5,3,6,7,4,9,2,8
+2021-10-15 13:03:46,2021-10-15 13:06:46,IP Address,173.18.62.240,100,179,True,2021-10-15 13:06:47,R_2U95PxPfnY0J8Pe,,,,,41.662200927734375,-91.51490020751953125,anonymous,EN,6,7,8,3,2,5,1,9,4
+2021-10-15 13:05:03,2021-10-15 13:07:00,IP Address,173.53.41.105,100,117,True,2021-10-15 13:07:00,R_2ZW9HU6MK6NMGep,,,,,37.563507080078125,-77.48380279541015625,anonymous,EN,3,6,1,2,4,9,8,7,5
+2021-10-15 13:03:42,2021-10-15 13:07:03,IP Address,35.129.162.64,100,201,True,2021-10-15 13:07:03,R_8oJpCiMpN7YzJpD,,,,,33.513702392578125,-83.869903564453125,anonymous,EN,4,2,9,8,5,1,3,6,7
+2021-10-15 13:03:41,2021-10-15 13:07:05,IP Address,68.14.97.81,100,203,True,2021-10-15 13:07:06,R_ZmX68BEGvoyL18l,,,,,41.516998291015625,-71.378997802734375,anonymous,EN,5,3,7,6,8,2,1,9,4
+2021-10-15 13:03:24,2021-10-15 13:07:17,IP Address,128.84.125.149,100,233,True,2021-10-15 13:07:18,R_O8vQkUeByXcS7DP,,,,,42.44439697265625,-76.4925994873046875,anonymous,EN,6,7,4,8,9,1,3,5,2
+2021-10-15 13:05:26,2021-10-15 13:07:34,IP Address,99.45.69.117,100,127,True,2021-10-15 13:07:34,R_3L1EU5HEYoZKRmu,,,,,35.91510009765625,-79.097198486328125,anonymous,EN,2,8,6,7,1,4,5,9,3
+2021-10-15 13:06:31,2021-10-15 13:07:40,IP Address,172.58.17.27,100,68,True,2021-10-15 13:07:40,R_1OJojPcNd25CH8w,,,,,33.9575958251953125,-118.266998291015625,anonymous,EN,6,3,5,7,2,1,4,8,9
+2021-10-15 13:05:28,2021-10-15 13:07:47,IP Address,70.21.19.202,100,139,True,2021-10-15 13:07:48,R_3HYBodwHI29tZkk,,,,,38.9994049072265625,-77.033599853515625,anonymous,EN,2,1,7,4,5,3,8,9,6
+2021-10-15 13:06:38,2021-10-15 13:08:14,IP Address,68.96.53.134,100,95,True,2021-10-15 13:08:14,R_3HHUaJtpWdss24c,,,,,33.3661041259765625,-111.93450164794921875,anonymous,EN,2,9,3,1,4,8,7,6,5
+2021-10-15 13:05:23,2021-10-15 13:08:15,IP Address,174.6.75.120,100,172,True,2021-10-15 13:08:16,R_1pM9rQEiWkBHxwV,,,,,49.2635040283203125,-122.93310546875,anonymous,EN,3,7,8,9,6,2,1,5,4
+2021-10-15 13:07:51,2021-10-15 13:08:22,IP Address,134.126.90.160,100,31,True,2021-10-15 13:08:23,R_29gZSwKWl7DLXvi,,,,,38.4474945068359375,-78.86930084228515625,anonymous,EN,5,1,6,8,4,2,3,9,7
+2021-10-15 13:05:25,2021-10-15 13:08:51,IP Address,73.136.21.139,100,205,True,2021-10-15 13:08:51,R_uvQApNjHMXQ11tf,,,,,29.7545013427734375,-95.4093017578125,anonymous,EN,2,4,1,5,9,8,7,6,3
+2021-10-15 13:08:01,2021-10-15 13:08:53,IP Address,100.1.215.89,100,52,True,2021-10-15 13:08:53,R_YbHdh9TdPOJnSDf,,,,,40.8125,-74.21340179443359375,anonymous,EN,2,5,9,6,7,3,8,4,1
+2021-10-15 13:06:13,2021-10-15 13:09:26,IP Address,68.96.53.134,100,193,True,2021-10-15 13:09:26,R_3MQbXQrKA0DVC9f,,,,,33.3661041259765625,-111.93450164794921875,anonymous,EN,6,4,3,1,8,7,2,9,5
+2021-10-15 13:09:52,2021-10-15 13:10:46,IP Address,91.19.235.68,100,53,True,2021-10-15 13:10:46,R_3maGjdpKOq0Uk6V,,,,,50.8928985595703125,11.5962982177734375,anonymous,EN,6,5,8,7,1,4,2,9,3
