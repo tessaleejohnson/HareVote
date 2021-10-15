@@ -6,7 +6,8 @@
 \usage{
 import_data(
   path,
-  item_text = "Rank the nominees to vote for SMEP President as follows:"
+ 
+    item_text = paste0("Rearrange the names by dragging them in your preferred rank order. - ")
 )
 }
 \arguments{

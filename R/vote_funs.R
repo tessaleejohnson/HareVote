@@ -20,7 +20,9 @@
 import_data <-
   function(
     path,
-    item_text = "Rank the nominees to vote for SMEP President as follows:"
+    item_text = paste0(
+      "Rearrange the names by dragging them in your preferred rank order. - "
+    )
   ) {
     # STEP 1:
     # import CSV file from qualtrics
@@ -29,8 +31,10 @@ import_data <-
     readr::read_csv(file = path, skip = 1) %>%
       # keep only the nominee columns (contain item_text)
       dplyr::select(., tidyselect::contains(item_text)) %>%
-      # remove item text from column names
-      dplyr::rename_with(.fn = ~{stringr::str_remove(.x, item_text)}) %>%
+      # remove item_text and everything before it from column names
+      dplyr::rename_with(
+        .fn = ~{gsub(paste0("^(.*", item_text, ")"), "", .x)}
+      ) %>%
       # delete row of qualtrics item option IDs
       dplyr::slice(., -1) %>%
       # convert data to numeric
